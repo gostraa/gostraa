@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gostraa
 - 👀 I’m interested in front-end development, especially working with React, Next.js, and modern web technologies.
 - 🌱 I’m currently learning GSAP and also improving my skills in backend technologies like Mongoose and MongoDB.
-- ⚡  Fun fact: I have a background in pharmacy and used to lead a manufacturing team, which helped me develop strong leadership and problem-solving skills.
-📫 How to reach me: mariiacherkashyna7@gmail.com or Telegram @gosstra
+- 🔄 From Medicine to Web Development: I transitioned from a medical degree to web development, showing how quickly I can adapt and learn new skills.
+- 📫 How to reach me: mariiacherkashyna7@gmail.com or Telegram @gosstra
 
 SKILLSET
 
