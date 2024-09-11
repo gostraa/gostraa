@@ -7,12 +7,12 @@
 SKILLSET
 
 Backend:
-💻 Languages: JavaScript/TypeScript, Node.js
-🛠 Backend Web Frameworks: Express
-🔗 APIs: REST
+- 💻 Languages: JavaScript/TypeScript, Node.js
+- 🛠 Backend Web Frameworks: Express
+- 🔗 APIs: REST
 
 Frontend:
-🖥 Languages: JavaScript + HTML5/CSS
- ⚛️ React and associated libraries: Redux
-🧪 Testing: Jest
-🎨 UI Libraries: Material UI, Bootstrap, ChakraUI
+- 🖥 Languages: JavaScript + HTML5/CSS
+- ⚛️ React and associated libraries: Redux
+- 🧪 Testing: Jest
+- 🎨 UI Libraries: Material UI, Bootstrap, ChakraUI
