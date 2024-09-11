@@ -13,6 +13,6 @@ Backend:
 
 Frontend:
 🖥 Languages: JavaScript + HTML5/CSS
-⚛️ React and associated libraries: Redux
+ ⚛️ React and associated libraries: Redux
 🧪 Testing: Jest
 🎨 UI Libraries: Material UI, Bootstrap, ChakraUI
